@@ -1,1 +1,1 @@
-# ubdate-css-variables-with-js
+# update-css-variables-with-js
